@@ -11,7 +11,7 @@ $(function(){
   $(document).ready(function(){
 
     // Create launch date for ticker
-    // Date below denotes 10 January, 2015
+    // Date below denotes 1st October, 2015
     $(function () {
       var launchDay = new Date(2015, 10, 01);
       $('#ticker').countdown({
