@@ -3231,6 +3231,20 @@ i.animated:hover {
         position: absolute;
         top: 24px;
         left: 24px; } }
+/* --- Works section --- */
+.service-item {
+  margin-bottom: 30px; }
+
+#icon-blue {
+  color: #4285f4; }
+
+/* --- Quote section --- */
+.quote-section {
+  background: url(../img/quote.jpg) no-repeat fixed; }
+
+.content-center {
+  text-align: center; }
+
 /* --- Contact section --- */
 .banner-social-buttons {
   margin-top: 0; }
@@ -3254,6 +3268,12 @@ i.animated:hover {
 
   ul.banner-social-buttons > li:last-child {
     margin-bottom: 0; } }
+/* --- Partners Block --- */
+.partner-block {
+  background: #4285f4;
+  padding: 17px 0;
+  text-align: center; }
+
 /* --- Map section --- */
 #map {
   width: 100%;

@@ -137,6 +137,25 @@
     }
 }
 
+/* --- Works section --- */
+.service-item{
+    margin-bottom: 30px;
+}
+
+#icon-blue{
+    color: $c_medium;
+}
+
+/* --- Quote section --- */
+.quote-section {
+    background: url(../img/quote.jpg) no-repeat fixed;
+
+}
+
+.content-center {
+    text-align: center;
+}
+
 /* --- Contact section --- */
 .banner-social-buttons {
     margin-top: 0;
@@ -164,6 +183,13 @@
     ul.banner-social-buttons>li:last-child {
         margin-bottom: 0;
     }
+}
+
+/* --- Partners Block --- */
+.partner-block {
+    background: $c_medium;
+    padding: 17px 0;
+    text-align: center;
 }
 
 /* --- Map section --- */
