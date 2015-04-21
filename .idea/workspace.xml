@@ -1,52 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="099fe69c-9ac9-45b0-aae8-59d43bcce6d5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/app.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/app.min.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/app.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/app.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/app.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/base/_bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/base/_fonts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/base/_normalize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/base/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/layout/_content.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/layout/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/scss/layout/_header.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/SourceSansPro-ExtraLight.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/SourceSansPro-ExtraLight.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/SourceSansPro-ExtraLight.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/SourceSansPro-ExtraLight.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/SourceSansPro-Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/SourceSansPro-Regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/SourceSansPro-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/SourceSansPro-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/brands/angularjs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/brands/bootstrap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/brands/box.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/brands/golang.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/brands/google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/brands/nodejs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/brands/vimeo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/brands/walmart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/intro-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/license-mit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/quote.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/slide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/works-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/works/pichuio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/works/player.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/works/recognizer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/works/snap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/app.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cookiesplease/cookiesplease.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="099fe69c-9ac9-45b0-aae8-59d43bcce6d5" name="Default" comment="" />
     <ignored path="pichuio.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,8 +37,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28075254" vertical-offset="6250" max-vertical-offset="7578">
-              <caret line="358" column="43" selection-start-line="358" selection-start-column="43" selection-end-line="358" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.026049204" vertical-offset="6408" max-vertical-offset="7578">
+              <caret line="357" column="30" selection-start-line="357" selection-start-column="30" selection-end-line="357" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -440,8 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28075254" vertical-offset="6250" max-vertical-offset="7578">
-          <caret line="358" column="43" selection-start-line="358" selection-start-column="43" selection-end-line="358" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.026049204" vertical-offset="6408" max-vertical-offset="7578">
+          <caret line="357" column="30" selection-start-line="357" selection-start-column="30" selection-end-line="357" selection-end-column="30" />
           <folding />
         </state>
       </provider>
