@@ -344,13 +344,13 @@ section.hailo {
     text-decoration: underline;
 }
 
-/* monzo intro */
+/* dea intro */
 
-.monzo {
+.dea {
     padding: 10%;
     background-color: #15233C;
 }
-.monzo p {
+.dea p {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #fff;
     font-size: 16px;
@@ -358,23 +358,23 @@ section.hailo {
     letter-spacing: 2px;
     margin-top: 2em;
 }
-.monzo .background {
+.dea .background {
     background: url(../img/high.jpg) no-repeat center center scroll;
     background-size: cover;
     opacity: 0.1;
 }
-.monzo a.anchor {
+.dea a.anchor {
     color: #ccc;
 }
-.monzo a.anchor:hover {
+.dea a.anchor:hover {
     color: #fff;
 }
-.monzo .talks {
+.dea .talks {
     font-family: "News 706 TL", Times, serif;
     padding-bottom: 0;
     margin-bottom: 0;
 }
-.monzo img {
+.dea img {
     max-width: 100%;
 }
 .feature.starling .content {
