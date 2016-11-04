@@ -1,1 +1,0 @@
-body:before{white-space:pre;font-family:monospace;content:"Error: Invalid CSS after \"$c_dark   : \": expected expression (e.g. 1px, bold), was \"#3333;\"\A         on line 1 of base/_variables.scss\A         from line 7 of app.scss\A \A 1: $c_dark   : #3333;\A 2: $c_medium : #4285f4;\A 3: $c_light  : #ffffff;"}
