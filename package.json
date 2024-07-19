@@ -1,0 +1,26 @@
+{
+    "name": "patdhlk.com",
+    "version": "1.0.0",
+    "description": "patdhlk's personal website",
+    "main": "js/cli.js",
+    "scripts": {
+      "dev": "http-server -o",
+      "format": "prettier --write 'src/*.js'",
+      "lint": "prettier --check 'src/*.js'"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/patdhlk/patdhlk.github.io.git"
+    },
+    "author": "Patrick Dahlke",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/patdhlk/patdhlk.github.io.git/issues"
+    },
+    "homepage": "https://github.com/patdhlk/patdhlk.github.io.git#readme",
+    "devDependencies": {
+      "http-server": "^14.1.1",
+      "prettier": "^2.0.2"
+    }
+  }
+  
